@@ -1,4 +1,4 @@
-# Aula-16-Exercicio-2
+# Aula-17-Exercicio-2
 
 Construa a classe Livros em Kotlin, que obedeça à descrição abaixo:
 a. A classe possui os atributos titulo, qtdPaginas e paginasLidas
